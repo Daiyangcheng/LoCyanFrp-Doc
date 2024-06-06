@@ -1,4 +1,5 @@
 import { viteBundler } from '@vuepress/bundler-vite'
+// import { webpackBundler } from '@vuepress/bundler-webpack'
 import { recoTheme } from 'vuepress-theme-reco'
 import { defineUserConfig } from 'vuepress'
 
