@@ -1,4 +1,8 @@
-# 欢迎来到 LoCyanFrp 帮助文档!
+# 首页
+
+::: warning
+若在交流群内询问任何在本文档中已提到的问题，或在百度可直接搜索到的问题，将直接做禁言 **10** 分钟处理
+:::
 
 ### 什么是 LoCyanFrp?
 1. LoCyanFrp 是由 Daiyangcheng 和 DXCFTDE 联合发起的一项公益 Frp 项目，从 2022 年 4 月 运营至今

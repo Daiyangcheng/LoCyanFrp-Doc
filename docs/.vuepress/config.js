@@ -16,13 +16,19 @@ export default defineUserConfig({
         text: '首页',
         link: '/main',
       },
-      "/app/account.md",
-      "/app/proxy-management.md",
-      "/api.md",
+      "/app/account",
+      "/app/proxy-management",
+      "/api",
       "/app/contact",
     ],
     series: {
-        '/': ['/app/account', '/app/proxy-management', '/app/contact'],
+      '/': [
+        '/main',
+        '/app/account',
+        '/app/proxy-management',
+        '/api',
+        '/app/contact'
+      ],
     },
   }),
 })
