@@ -27,9 +27,9 @@ features:
     title: 快捷
     details: 我们为各类系统环境都制作了相应的客户端，方便用户使用
 footer:
-  record: 浙ICP备2023018048号-3
+  record: 浙ICP备2023018048号-4
   recordLink: https://beian.miit.gov.cn/
-  cyberSecurityRecord: 浙公网安备 33011302000435号
+  cyberSecurityRecord: 浙公网安备 33011302000425号
   cyberSecurityLink: https://beian.mps.gov.cn/#/query/webSearch
   startYear: 2021
 ---
