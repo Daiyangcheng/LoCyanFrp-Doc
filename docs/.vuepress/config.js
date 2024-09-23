@@ -3,6 +3,8 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { recoTheme } from 'vuepress-theme-reco'
 import { defineUserConfig } from 'vuepress'
 
+import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension'
+
 export default defineUserConfig({
   base: "/",
   lang: "zh-cn",
@@ -10,6 +12,7 @@ export default defineUserConfig({
   description: "适用于 LoCyanFrp 的帮助文档",
   head: [['link', { rel: 'icon', href: 'https://www.locyan.cn/favicon.ico' }]],
   bundler: viteBundler(),
+  plugins: [removeHtmlExtensionPlugin()],
   theme: recoTheme({
     navbar: [
       {
@@ -33,5 +36,4 @@ export default defineUserConfig({
       ],
     },
   }),
-  cleanUrls: true,
 })
