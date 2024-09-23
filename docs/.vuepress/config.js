@@ -23,7 +23,7 @@ export default defineUserConfig({
       "/app/proxy-management",
       {
         text: 'API',
-        link: 'https://docs.locyanfrp.cn/api',
+        link: '/api',
       },
       "/app/contact",
     ],
