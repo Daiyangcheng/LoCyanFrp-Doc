@@ -18,7 +18,10 @@ export default defineUserConfig({
       },
       "/app/account",
       "/app/proxy-management",
-      "/api",
+      {
+        text: 'API',
+        link: '/api',
+      },
       "/app/contact",
     ],
     series: {
@@ -26,7 +29,6 @@ export default defineUserConfig({
         '/main',
         '/app/account',
         '/app/proxy-management',
-        '/api',
         '/app/contact'
       ],
     },

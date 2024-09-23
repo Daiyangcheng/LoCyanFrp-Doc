@@ -13,7 +13,7 @@
 
 ## 邮件 (E-Mail)
 1. Daiyangcheng (daiyangcheng@locyan.cn)
-2. 夏沫花火🌙zzz (nya@locyan.cn)
+2. 夏沫花火🌙zzz (ami@muska.zip)
 3. DXCFTDE (locyan@qq.com)
 4. 烟墨 (yanmo@locyan.cn)
 
