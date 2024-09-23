@@ -23,7 +23,7 @@ export default defineUserConfig({
       "/app/proxy-management",
       {
         text: 'API',
-        link: '/api',
+        link: '/api.html',
       },
       "/app/contact",
     ],
