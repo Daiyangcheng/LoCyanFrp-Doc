@@ -19,8 +19,6 @@ export default defineUserConfig({
         text: '首页',
         link: '/main',
       },
-      "/app/account",
-      "/app/proxy-management",
       {
         text: 'API',
         link: 'https://docs.locyanfrp.cn/api',
