@@ -4,7 +4,7 @@
 
 ## 创建隧道
 
-1. 打开[后台-创建隧道](https://dashboard.locyanfrp.cn/proxies/add)
+1. 打开[后台-隧道管理-创建隧道](https://dashboard.locyanfrp.cn/proxies/add)
 
    ![1716086568972.png](https://alist.locyan.cn/p/pics/docs/2024/05/19/1716086568972.png)
 
@@ -43,7 +43,7 @@
 
 ### 下载软件
 
-LoCyanFrp 提供了许多平台的客户端供各位用户使用，请查阅 [后台-软件下载](https://dashboard.locyanfrp.cn/other/software)
+LoCyanFrp 提供了许多平台的客户端供各位用户使用，请查阅 [后台-其他-软件下载](https://dashboard.locyanfrp.cn/other/software)
 
 ### 启动隧道常见报错对照表
 

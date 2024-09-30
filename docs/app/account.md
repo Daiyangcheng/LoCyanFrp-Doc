@@ -6,9 +6,9 @@
 
 1. 打开[官网](https://dashboard.locyanfrp.cn/)
 2. 点击 ”进入“
+   ![account-1-1](https://alist.locyan.cn/d/pics/docs/account-1-1.png)
 
-![account-1-1](https://alist.locyan.cn/d/pics/docs/account-1-1.png)
-3. 点击左侧的 ”注册“，并输入相关信息完成账号注册
+3. 点击左侧的 “注册”，并输入相关信息完成账号注册
 
 > 请正确填写信息，若发送验证码报错，请主动联系管理员上报故障
 
@@ -18,7 +18,7 @@
 
 > 注册完账号后需要进行实名 / 实人认证才能继续使用我们的服务
 
-1. 登录账号后点击菜单栏左侧 ”实名认证“ 或[戳此](https://dashboard.locyanfrp.cn/realname)
+1. 登录账号后点击菜单栏左侧 “实名认证” [后台-身份认证](https://dashboard.locyanfrp.cn/realname)
 2. 选择一级认证或者二级认证进行实名
 
 ![account-2-1](https://alist.locyan.cn/d/pics/docs/account-2-1.png)
@@ -27,11 +27,12 @@
 
 1. 支付 1.2 元的实人费用
 2. 回到原页面刷新付款状态，输入自己的姓名和身份证号并提交，过 1-2s 会出现一个弹窗
+
 ::: warning
 若不小心输错了姓名和身份证, 您可以再次支付一次费用后将订单号[发给管理员](/app/contact)
 :::
-3. 用与填写的身份信息一致的支付宝账号进行扫码，刷脸操作，否则会核验失败
 
+3. 用与填写的身份信息一致的支付宝账号进行扫码，刷脸操作，否则会核验失败
    ![account-2-2](https://alist.locyan.cn/d/pics/docs/account-2-2.png)
 
 ### 二级认证
