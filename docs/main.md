@@ -13,6 +13,10 @@
 - 烟墨 - 协助
 - Shiroiame-Kusu - 协助 / 软件开发
 
+## 乐青官方开发部
+
+<https://github.com/LoCyan-Team>
+
 ## 鸣谢
 
 - 天宇网络
