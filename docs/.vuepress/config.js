@@ -28,9 +28,14 @@ export default defineUserConfig({
     series: {
       '/': [
         '/main',
-        '/app/account',
-        '/app/proxy-management',
-        '/app/contact'
+      ],
+      '/app': [
+        '/account',
+        '/proxy-management',
+        '/contact',
+      ],
+      '/game': [
+        '/minecraft',
       ],
     },
   }),
