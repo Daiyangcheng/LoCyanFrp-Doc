@@ -28,15 +28,16 @@ export default defineUserConfig({
     series: {
       '/': [
         '/main',
-      ],
-      '/app': [
-        '/account',
-        '/proxy-management',
         '/contact',
-      ],
-      '/game': [
-        '/minecraft',
-      ],
+        '/app/account',
+        '/app/proxy-management',
+        {
+          text: '游戏联机',
+          children: [
+            '/game/minecraft',
+          ]
+        },
+      ]
     },
   }),
 })
