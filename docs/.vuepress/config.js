@@ -29,8 +29,19 @@ export default defineUserConfig({
       '/': [
         '/main',
         '/contact',
-        '/app/account',
-        '/app/proxy-management',
+        '/start',
+        {
+          text: '账户',
+          children: [
+            '/account/main',
+          ]
+        },
+        {
+          text: '隧道管理',
+          children: [
+            '/proxy/management',
+          ]
+        },
         {
           text: '游戏联机',
           children: [
