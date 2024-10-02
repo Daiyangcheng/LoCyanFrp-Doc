@@ -23,7 +23,7 @@ export default defineUserConfig({
         text: 'API',
         link: 'https://docs.locyanfrp.cn/api',
       },
-      "/app/contact",
+      "/contact",
     ],
     series: {
       '/': [
