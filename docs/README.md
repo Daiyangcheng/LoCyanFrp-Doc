@@ -12,7 +12,7 @@ bannerBrand:
     - text: 开始阅读
       link: /main
     - text: 联系我们
-      link: /app/contact
+      link: /contact
       type: plain
 features:
   - title: 免费

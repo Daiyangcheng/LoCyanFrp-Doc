@@ -2,11 +2,11 @@
 
 ## 前置条件
 
-首先请参阅 [隧道管理](/app/proxy-management) 创建隧道，并正常启动隧道。
+首先请参阅 隧道管理 创建隧道，并正常启动隧道。
 
 ## 创建联机房间
 
-打开 [后台-游戏联机-Minecraft] 选择隧道，点击 `创建` 创建联机。  
+打开 [后台-游戏联机-Minecraft](https://dashboard.locyanfrp.cn/games/minecraft) 选择隧道，点击 `创建` 创建联机。  
 下方复制联机代码，发送给对方。
 
 ## 对方
