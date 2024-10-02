@@ -39,12 +39,14 @@ export default defineUserConfig({
         {
           text: '隧道管理',
           children: [
-            '/proxy/management',
+            '/proxy/create',
+            '/proxy/error',
           ]
         },
         {
           text: '游戏联机',
           children: [
+            '/game/port',
             '/game/minecraft',
           ]
         },
