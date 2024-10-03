@@ -8,8 +8,8 @@
 ## 项目成员
 
 - 夏沫花火zzz🌙 - 现任站长 / 软件开发·面板开发·API 开发
-- DXCFTDE - 协助
 - Daiyangcheng - 原站长 / API 开发
+- DXCFTDE - 协助
 - Zhiyuan - LoCyan-Team 成员 / 软件开发
 - 烟墨 - 协助
 - Shiroiame-Kusu - 协助 / 软件开发
