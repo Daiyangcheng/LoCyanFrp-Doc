@@ -8,12 +8,13 @@
 ## 项目成员
 
 - 夏沫花火zzz🌙 - 现任站长 / 软件开发·面板开发·API 开发
+- DXCFTDE - 协助
 - Daiyangcheng - 原站长 / API 开发
 - Zhiyuan - LoCyan-Team 成员 / 软件开发
 - 烟墨 - 协助
 - Shiroiame-Kusu - 协助 / 软件开发
 
-## 乐青官方开发部
+## 乐青团队官方开发部
 
 <https://github.com/LoCyan-Team>
 
