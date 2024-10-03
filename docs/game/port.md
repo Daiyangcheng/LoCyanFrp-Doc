@@ -4,5 +4,5 @@
 | -------------------------------------------- | --- | ----- |
 | Minecraft Java 版 (Minecraft: Java Edition)  | TCP | 25565 |
 | Minecraft 基岩版 (Minecraft: Bedrock Edition) | UDP | 19132 |
-| 泰拉瑞亚 (Terria)                             | UDP | 7777 |
+| 泰拉瑞亚 (Terraria)                             | UDP | 7777 |
 | 幻兽帕鲁 (Palworld)                           | UDP | 8211 |
