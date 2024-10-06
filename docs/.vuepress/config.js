@@ -37,10 +37,16 @@ export default defineUserConfig({
           ]
         },
         {
-          text: '隧道管理',
+          text: '隧道',
           children: [
             '/proxy/create',
             '/proxy/error',
+            {
+              text: '运行',
+              children: [
+                '/proxy/run/systemd.md'
+              ]
+            }
           ]
         },
         {
