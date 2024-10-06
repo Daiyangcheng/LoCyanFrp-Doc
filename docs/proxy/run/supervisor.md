@@ -1,6 +1,6 @@
 # 使用 Supervisor 运行和管理 Frpc
 
-假设你已经完成了 Supervisor 的配置
+假设你已经完成了 Supervisor 的配置  
 我们假设你的 Frpc 和配置文件在 `/opt/lcf/` 中，配置文件名为 `frpc.ini`
 
 ## 给与 Frpc 运行权限
