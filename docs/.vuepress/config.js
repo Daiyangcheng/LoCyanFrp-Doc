@@ -50,6 +50,7 @@ export default defineUserConfig({
             '/game/minecraft',
           ]
         },
+        '/solution'
       ]
     },
   }),
