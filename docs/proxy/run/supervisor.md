@@ -16,7 +16,7 @@ chmod +x /opt/lcf/frpc
 ```ini
 [program:lcf_frpc]
 command                 = /opt/lcf/frpc
-directory               = /opt/lcf
+directory               = /opt/lcf/
 autorestart             = true
 startsecs               = 3
 stdout_logfile          = /opt/lcf/frpc.log
