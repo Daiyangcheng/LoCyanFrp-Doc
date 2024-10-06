@@ -44,7 +44,8 @@ export default defineUserConfig({
             {
               text: '运行',
               children: [
-                '/proxy/run/systemd.md'
+                '/proxy/run/systemd',
+                '/proxy/run/supervisor'
               ]
             }
           ]

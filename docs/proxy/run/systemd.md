@@ -1,6 +1,6 @@
 # 使用 Systemd 运行和管理 Frpc
 
-我们假设你的 Frpc 和配置文件在 `/opt/lcf` 中，配置文件名为 `frpc.ini`
+我们假设你的 Frpc 和配置文件在 `/opt/lcf/` 中，配置文件名为 `frpc.ini`
 
 ## 给与 Frpc 运行权限
 
@@ -20,7 +20,7 @@ chmod +x /opt/lcf/frpc
 Description="LoCyanFrp Client"
 
 [Service]
-WorkingDirectory="/opt/lcf"
+WorkingDirectory="/opt/lcf/"
 Exec="/opt/lcf/frpc"
 # 如果你的配置文件名不为 frpc.ini，请手动使用 -c 指定：
 #Exec="/opt/lcf/frpc -c config.ini"
